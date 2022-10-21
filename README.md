@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid Aboubakr</h1>
-<h3 align="center">A passionate Technical Lead from Egypt</h3>
+<h3 align="center">A passionate Technical Lead at _Vois</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidaboubakr&label=Profile%20views&color=0e75b6&style=flat" alt="khalidaboubakr" /> </p>
 
@@ -12,10 +12,6 @@
 - 🤝 One of the biggest projects **Orange Cach**
 
 - 💬 Ask me about **C# , OOP , Asp.net core**
-
-- 📫 How to reach me **khalid.aboubakr@outlook.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PR3K0qiVR41mIVGU4mUj7RrmSyyE-4mw/view?usp=sharing](https://drive.google.com/file/d/1PR3K0qiVR41mIVGU4mUj7RrmSyyE-4mw/view?usp=sharing)
 
 - ⚡ Fun fact **I Think i am funny**
 
