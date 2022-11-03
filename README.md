@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalidaboubakr&label=Profile%20views&color=0e75b6&style=flat" alt="khalidaboubakr" /> </p>
 
-- 🔭 I’m currently working on [Traffic Prosecution Control System](https://ppo.gov.eg)
+- 🔭 I’m currently working on CPC
+- 
+- 🔭 I’m recently worked on [Traffic Prosecution Control System](https://ppo.gov.eg)
 
 - 🌱 I’m currently learning **React**
 
