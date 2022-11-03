@@ -13,7 +13,7 @@
 
 - 🤝 One of the biggest projects **Orange Cach**
 
-- 💬 Ask me about **C# , OOP , Asp.net core**
+- 💬 Ask me about **C# , OOP , Asp.net core , Microservices , RabbitMQ , Redis DB , Elastic Search**
 
 - ⚡ Fun fact **I Think i am funny**
 
